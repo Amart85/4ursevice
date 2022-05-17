@@ -5,12 +5,15 @@ NOTE:- The Project is Still under development so dont judge it right now.
 
 4URSERVICE
 
-About:-
+1)About:-
+===========
+
 A-Z domestic services at one place with nearest service personnel suggested on customer location. Get the right service at right time and right price. 
 
 
 
-FEATURES:-
+2)FEATURES:-
+==============
 
 --Connects the customers with the service personnel
 
@@ -40,7 +43,8 @@ FEATURES:-
 
 
 
-SERVICES AVAILABLE:-
+3)SERVICES AVAILABLE:-
+====================
 
 AC Mechanic,
 
@@ -105,7 +109,8 @@ TV Mechanic,
 
 
 
-BENEFITS:-
+4)BENEFITS:-
+===========
 
 --Time saving,
 
