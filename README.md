@@ -1,8 +1,8 @@
 # 4ursevice
 ============
 
-NOTE:- The Project is Still under development, so dont judge it right now.
-=============================================================================
+NOTE:- The Project is Still under development, So Please don't judge it right now.
+==================================================================================
 
 
 
