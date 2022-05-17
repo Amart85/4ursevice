@@ -2,7 +2,7 @@
 ============
 
 NOTE:- The Project is Still under development, So Please don't judge it right now.
-A Portotype model will be available by 20 May 2022.
+A Portotype model / Working Demo will be available by 20 May 2022.
 ==================================================================================
 
 
