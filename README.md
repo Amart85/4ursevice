@@ -138,7 +138,7 @@ TV Mechanic,
 --Benefits of reliable and no touch scalable AstraDB services as backend from Datastax.
 
 
-
+5)Thanks to TEAM DATASTAX and TEAM ANGELHACK
 
 
 Regards,
