@@ -4,8 +4,10 @@ NOTE:- The Project is Still under development so dont judge it right now.
 
 
 4URSERVICE
+
 About:-
 A-Z domestic services at one place with nearest service personnel suggested on customer location. Get the right service at right time and right price. 
+
 
 
 FEATURES:-
@@ -37,37 +39,70 @@ FEATURES:-
 --Shows the service person status as free/busy/nearest available times.
 
 
+
 SERVICES AVAILABLE:-
+
 AC Mechanic,
+
 Ambulance,
+
 Autos,
+
 Baby Sitters,
+
 Cabs,
+
 Carpenter,
+
 Construction Mason,
+
 Decorators,
+
 Electrician,
+
 Event Management,
+
 Floor Work,
+
 Gardening,
+
 Granite Work,
+
 Home Deliveries,
+
 Interior Design,
+
 Kitchen Repairs,
+
 Lawn Makers,
+
 Marble work,
+
 Metal Work,
+
 Musical Instruments repair,
+
 Nursing Care,
+
 Old Age Care,
+
 Painting,
+
 Plumbing,
+
 Refrigerator,
+
 Security,
+
 Stove Repairs,
+
 Tutions,
+
 TV Mechanic,
+
 ...and more.
+
+
 
 
 BENEFITS:-
