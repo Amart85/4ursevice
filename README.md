@@ -11,7 +11,9 @@ NOTE:- The Project is Still under development, so dont judge it right now.
 1)About 4URSERVICE:-
 ==================
 
-An e-commerce Solution for A-Z domestic services at one place with nearest service personnel suggested on customer location. Get the right service at right time and at right price. 
+An e-commerce Solution for A-Z domestic services at one place with nearest service personnel suggested on customer location. 
+
+Get the right service at right time and at right price. 
 
 
 
