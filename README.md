@@ -150,7 +150,8 @@ TV Mechanic,
 
 5.CREDITS:-
 =========
-This e-commerce app is built on DataStax AstraDB as backend, which has no touch scalability or elasticity.
+This services app is built on DataStax AstraDB as backend, which has no touch scalability or elasticity.
+
 Thanks to Team DataStax and Team angelhack for this wonderful hackathon.
 
 
