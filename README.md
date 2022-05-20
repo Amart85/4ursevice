@@ -9,6 +9,16 @@
 TEAM NAME:- AMAR
 =================
 
+INTRODUCTION:-
+=============
+The main idea for this project comes from the devastating economic impacts of covid-19 on middle class and low income groups.
+Many have lost their jobs in private sector and un-organised sector.
+
+Workers in Un-organised sector are mostly day-to-day working earners for their families.
+
+Many teaching faculty in schools and colleges in private sector have turned into cab drivers and auto-drivers to survive.
+
+This app is an effort to connect and bridge the gap between the Customers and the self-employed or service providers, so that those looking for some kind of work or customers will have some opportunity to earn and survive the bad economic times.
 
 
 1)About 4URSERVICE:-
