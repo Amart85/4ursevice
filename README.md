@@ -3,7 +3,7 @@
 
 <https://gitpod.io/#https://github.com/Amart85/4ursevice>}
 
-
+NOTE:- There are some glitches in this project and will be rectified by demo-day.
 ==================================================================================
 
 TEAM NAME:- AMAR
